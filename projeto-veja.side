@@ -1,8 +1,8 @@
 {
   "id": "8e010b1b-3a06-4a47-a9ae-4719b161864f",
   "version": "2.0",
-  "name": "projeto-veja",
-  "url": "https://veja.abril.com.br/",
+  "name": "projeto-uol",
+  "url": "https://uol.com.br/",
   "tests": [{
     "id": "5ebf9309-71dc-4cc1-ab8b-ebfb17831b2c",
     "name": "teste-filtro",
@@ -10,7 +10,7 @@
       "id": "a8179929-e132-4a13-a2f7-d3460c4468e1",
       "comment": "",
       "command": "open",
-      "target": "https://veja.abril.com.br/",
+      "target": "https://uol.com.br/",
       "targets": [],
       "value": ""
     }, {
@@ -129,6 +129,6 @@
     "timeout": 300,
     "tests": ["5ebf9309-71dc-4cc1-ab8b-ebfb17831b2c"]
   }],
-  "urls": ["https://veja.abril.com.br/"],
+  "urls": ["https://uol.com.br/"],
   "plugins": []
 }
